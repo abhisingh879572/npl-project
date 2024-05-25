@@ -1,0 +1,11 @@
+.buttoss {
+    transition: transform 0.3s ease;
+    box-shadow: 1px 2px 10px black;
+    background-color: rgb(6, 36, 70);
+  }
+  
+  .buttoss:hover {
+    transform: scale(1.1);
+    box-shadow: 1px 2px 10px black;
+  }
+  
